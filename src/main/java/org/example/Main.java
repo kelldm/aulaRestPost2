@@ -18,7 +18,7 @@ public class Main {
       }
        */
         String content = "{\"animal\": \"dog\", \"name\": \"biff\"}";
-        String path = "http://httpbin.org/post";
+        String path = "http://testeinfnet.000webhostapp.com/index3.php";
 
         try {
             URL url = new URL(path);
